@@ -1,0 +1,279 @@
+[
+  {
+    "scheme_ref": "S1",
+    "source_name": "s1_circular_en.txt",
+    "captured_on": "2026-10-30",
+    "model": "openai/gpt-oss-20b",
+    "usage": {
+      "input_tokens": 601,
+      "output_tokens": 344
+    },
+    "fields": {
+      "scheme_name": {
+        "value": "Mahila Udyam Sahayata Yojana",
+        "evidence": "Mahila Udyam Sahayata Yojana",
+        "page": 1
+      },
+      "department": {
+        "value": "Department of Women and Child Development",
+        "evidence": "Department of Women and Child Development",
+        "page": 1
+      },
+      "benefit_type": {
+        "value": "one-time cash grant",
+        "evidence": "one-time grant",
+        "page": 1
+      },
+      "benefit_amount": {
+        "value": "Rs. 25,000",
+        "evidence": "Rs. 25,000",
+        "page": 1
+      },
+      "benefit_frequency": {
+        "value": "one-time",
+        "evidence": "one-time grant",
+        "page": 1
+      },
+      "eligibility": {
+        "value": [
+          "Woman applicant aged 18 to 45 years",
+          "Annual family income below Rs. 2,00,000",
+          "Permanent resident of the State"
+        ],
+        "evidence": "(a) Woman applicant aged 18 to 45 years.\n(b) Annual family income below Rs. 2,00,000.\n(c) Permanent resident of the State.",
+        "page": 2
+      },
+      "documents_required": {
+        "value": [
+          "Aadhaar card",
+          "income certificate",
+          "bank passbook copy"
+        ],
+        "evidence": "Aadhaar card, income certificate,\nbank passbook copy.",
+        "page": 2
+      },
+      "how_to_apply": {
+        "value": "Applications are to be submitted online through the district industries office portal.",
+        "evidence": "Applications are to be submitted online through\nthe district industries office portal.",
+        "page": 2
+      },
+      "deadline": {
+        "value": "31 March 2027",
+        "evidence": "31 March 2027",
+        "page": 2
+      },
+      "official_link": {
+        "value": null,
+        "evidence": null,
+        "page": null
+      }
+    }
+  },
+  {
+    "scheme_ref": "S1",
+    "source_name": "s1_myscheme_listing.txt",
+    "captured_on": "2026-10-30",
+    "model": "openai/gpt-oss-20b",
+    "usage": {
+      "input_tokens": 486,
+      "output_tokens": 298
+    },
+    "fields": {
+      "scheme_name": {
+        "value": "Mahila Udyam Sahayata Yojana",
+        "evidence": "Mahila Udyam Sahayata Yojana",
+        "page": null
+      },
+      "department": {
+        "value": "Women and Child Development",
+        "evidence": "Women and Child Development",
+        "page": null
+      },
+      "benefit_type": {
+        "value": "one-time cash grant",
+        "evidence": "One-time grant of Rs. 30,000",
+        "page": null
+      },
+      "benefit_amount": {
+        "value": "Rs. 30,000",
+        "evidence": "One-time grant of Rs. 30,000",
+        "page": null
+      },
+      "benefit_frequency": {
+        "value": "one-time",
+        "evidence": "One-time grant of Rs. 30,000",
+        "page": null
+      },
+      "eligibility": {
+        "value": [
+          "Women aged 18-45",
+          "family income below Rs. 2 lakh"
+        ],
+        "evidence": "Women aged 18-45, family income below Rs. 2 lakh",
+        "page": null
+      },
+      "documents_required": {
+        "value": [
+          "Aadhaar",
+          "income certificate",
+          "bank passbook"
+        ],
+        "evidence": "Aadhaar, income certificate, bank passbook",
+        "page": null
+      },
+      "how_to_apply": {
+        "value": null,
+        "evidence": null,
+        "page": null
+      },
+      "deadline": {
+        "value": "31 December 2026",
+        "evidence": "Last date: 31 December 2026",
+        "page": null
+      },
+      "official_link": {
+        "value": null,
+        "evidence": null,
+        "page": null
+      }
+    }
+  },
+  {
+    "scheme_ref": "S2",
+    "source_name": "s2_circular_hi.txt",
+    "captured_on": "2026-10-30",
+    "model": "openai/gpt-oss-20b",
+    "usage": {
+      "input_tokens": 585,
+      "output_tokens": 385
+    },
+    "fields": {
+      "scheme_name": {
+        "value": "किसान सहायता योजना",
+        "evidence": "किसान सहायता योजना का शुभारंभ",
+        "page": "1"
+      },
+      "department": {
+        "value": "कृषि विभाग",
+        "evidence": "कृषि विभाग",
+        "page": "1"
+      },
+      "benefit_type": {
+        "value": "cash grant",
+        "evidence": "प्रति वर्ष रु. 6,000 की सहायता",
+        "page": "1"
+      },
+      "benefit_amount": {
+        "value": "6000",
+        "evidence": "रु. 6,000",
+        "page": "1"
+      },
+      "benefit_frequency": {
+        "value": "2 installments per year",
+        "evidence": "दो किस्तों में दी जाएगी (प्रत्येक किस्त रु. 3,000)",
+        "page": "1"
+      },
+      "eligibility": {
+        "value": [
+          "small and marginal farmers with up to 2 hectares of land",
+          "applicant must be a resident of the state"
+        ],
+        "evidence": "(क) छोटे एवं सीमांत किसान, जिनके पास 2 हेक्टेयर तक भूमि हो।\n(ख) आवेदक राज्य का निवासी हो।",
+        "page": "1"
+      },
+      "documents_required": {
+        "value": [
+          "Aadhaar card",
+          "land record (khusra)",
+          "bank passbook"
+        ],
+        "evidence": "आवश्यक दस्तावेज: आधार कार्ड, भूमि रिकॉर्ड (खसरा), बैंक पासबुक।",
+        "page": "2"
+      },
+      "how_to_apply": {
+        "value": "Apply at the village panchayat office or Common Service Center (CSC)",
+        "evidence": "आवेदन कैसे करें: ग्राम पंचायत कार्यालय या कॉमन सर्विस सेंटर (CSC) में।",
+        "page": "2"
+      },
+      "deadline": {
+        "value": "15 January 2027",
+        "evidence": "अंतिम तिथि: 15 जनवरी 2027।",
+        "page": "2"
+      },
+      "official_link": {
+        "value": null,
+        "evidence": null,
+        "page": null
+      }
+    }
+  },
+  {
+    "scheme_ref": "S3",
+    "source_name": "s3_scanned_ocr.txt",
+    "captured_on": "2026-10-30",
+    "model": "openai/gpt-oss-20b",
+    "usage": {
+      "input_tokens": 513,
+      "output_tokens": 385
+    },
+    "fields": {
+      "scheme_name": {
+        "value": "Sahay Scho1arship for Girl Students",
+        "evidence": "Sahay Scho1arship for Girl Students",
+        "page": 1
+      },
+      "department": {
+        "value": "Dept. of Schoo1 Education",
+        "evidence": "Dept. of Schoo1 Education",
+        "page": 1
+      },
+      "benefit_type": {
+        "value": "scholarship",
+        "evidence": "Bene fit: Rs. 1,O00 per month for 10 months",
+        "page": 1
+      },
+      "benefit_amount": {
+        "value": "Rs. 1,000 per month for 10 months",
+        "evidence": "Bene fit: Rs. 1,O00 per month for 10 months",
+        "page": 1
+      },
+      "benefit_frequency": {
+        "value": "monthly for 10 months",
+        "evidence": "Bene fit: Rs. 1,O00 per month for 10 months",
+        "page": 1
+      },
+      "eligibility": {
+        "value": [
+          "Girl students of Class 9 to 12",
+          "Family income below Rs. 1,50,000 per year"
+        ],
+        "evidence": "E1igibility: Girl students of Class 9 to 12.\nFami1y income be1ow Rs. 1,50,000 per year.",
+        "page": 1
+      },
+      "documents_required": {
+        "value": [
+          "school certificate",
+          "bank account details",
+          "income certificate"
+        ],
+        "evidence": "Documents: schoo1 certificate, bank account\ndetai1s, income certificate.",
+        "page": 1
+      },
+      "how_to_apply": {
+        "value": "Apply through the Principal of the school",
+        "evidence": "App1y through the Principa1 of the schoo1.",
+        "page": 1
+      },
+      "deadline": {
+        "value": null,
+        "evidence": null,
+        "page": null
+      },
+      "official_link": {
+        "value": null,
+        "evidence": null,
+        "page": null
+      }
+    }
+  }
+]

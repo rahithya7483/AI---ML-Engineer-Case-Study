@@ -1,0 +1,38 @@
+{
+  "S1": {
+    "scheme_name": {"status": "found", "values": ["Mahila Udyam Sahayata Yojana"]},
+    "department": {"status": "found", "values": ["Department of Women and Child Development"]},
+    "benefit_type": {"status": "found", "values": ["one-time cash grant"]},
+    "benefit_amount": {"status": "conflict", "values": ["Rs. 25,000", "Rs. 30,000"]},
+    "benefit_frequency": {"status": "found", "values": ["one-time"]},
+    "eligibility": {"status": "found", "values": ["woman aged 18 to 45", "annual family income below Rs. 2,00,000", "permanent resident of the State"]},
+    "documents_required": {"status": "found", "values": ["Aadhaar card", "income certificate", "bank passbook copy"]},
+    "how_to_apply": {"status": "found", "values": ["online through the district industries office portal"]},
+    "deadline": {"status": "conflict", "values": ["31 March 2027", "31 December 2026"]},
+    "official_link": {"status": "not found", "values": []}
+  },
+  "S2": {
+    "scheme_name": {"status": "found", "values": ["किसान सहायता योजना"]},
+    "department": {"status": "found", "values": ["कृषि विभाग"]},
+    "benefit_type": {"status": "found", "values": ["cash assistance"]},
+    "benefit_amount": {"status": "found", "values": ["Rs. 6,000 per year (2 installments of Rs. 3,000)"]},
+    "benefit_frequency": {"status": "found", "values": ["yearly, in two installments"]},
+    "eligibility": {"status": "found", "values": ["small and marginal farmers with up to 2 hectares of land", "resident of the State"]},
+    "documents_required": {"status": "found", "values": ["Aadhaar card", "land record (khasra)", "bank passbook"]},
+    "how_to_apply": {"status": "found", "values": ["Gram Panchayat office or Common Service Centre (CSC)"]},
+    "deadline": {"status": "found", "values": ["15 January 2027"]},
+    "official_link": {"status": "not found", "values": []}
+  },
+  "S3": {
+    "scheme_name": {"status": "found", "values": ["Sahay Scholarship for Girl Students"]},
+    "department": {"status": "found", "values": ["Department of School Education"]},
+    "benefit_type": {"status": "found", "values": ["scholarship"]},
+    "benefit_amount": {"status": "found", "values": ["Rs. 1,000"]},
+    "benefit_frequency": {"status": "found", "values": ["monthly, for 10 months in each academic year"]},
+    "eligibility": {"status": "found", "values": ["girl students of Class 9 to 12", "family income below Rs. 1,50,000 per year"]},
+    "documents_required": {"status": "found", "values": ["school certificate", "bank account details", "income certificate"]},
+    "how_to_apply": {"status": "found", "values": ["through the Principal of the school"]},
+    "deadline": {"status": "not found", "values": []},
+    "official_link": {"status": "not found", "values": []}
+  }
+}

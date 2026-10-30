@@ -1,0 +1,446 @@
+[
+  {
+    "scheme_ref": "S1",
+    "field": "scheme_name",
+    "value": "Mahila Udyam Sahayata Yojana",
+    "evidence": {
+      "text": "Mahila Udyam Sahayata Yojana",
+      "location": "page 1",
+      "source": "s1_circular_en.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": "no page marker for s1_myscheme_listing.txt"
+  },
+  {
+    "scheme_ref": "S1",
+    "field": "department",
+    "value": "Department of Women and Child Development",
+    "evidence": {
+      "text": "Department of Women and Child Development",
+      "location": "page 1",
+      "source": "s1_circular_en.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": "no page marker for s1_myscheme_listing.txt"
+  },
+  {
+    "scheme_ref": "S1",
+    "field": "benefit_type",
+    "value": "one-time cash grant",
+    "evidence": {
+      "text": "one-time grant",
+      "location": "page 1",
+      "source": "s1_circular_en.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": "no page marker for s1_myscheme_listing.txt"
+  },
+  {
+    "scheme_ref": "S1",
+    "field": "benefit_amount",
+    "value": [
+      "Rs. 25,000",
+      "Rs. 30,000"
+    ],
+    "evidence": [
+      {
+        "text": "Rs. 25,000",
+        "location": "page 1",
+        "source": "s1_circular_en.txt",
+        "captured_on": "2026-10-30"
+      },
+      {
+        "text": "One-time grant of Rs. 30,000",
+        "location": "page None",
+        "source": "s1_myscheme_listing.txt",
+        "captured_on": "2026-10-30"
+      }
+    ],
+    "confidence": "low",
+    "status": "conflict",
+    "note": "no page marker for s1_myscheme_listing.txt; sources disagree, a person must decide"
+  },
+  {
+    "scheme_ref": "S1",
+    "field": "benefit_frequency",
+    "value": "one-time",
+    "evidence": {
+      "text": "one-time grant",
+      "location": "page 1",
+      "source": "s1_circular_en.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": "no page marker for s1_myscheme_listing.txt"
+  },
+  {
+    "scheme_ref": "S1",
+    "field": "eligibility",
+    "value": [
+      "Woman applicant aged 18 to 45 years",
+      "Annual family income below Rs. 2,00,000",
+      "Permanent resident of the State"
+    ],
+    "evidence": {
+      "text": "(a) Woman applicant aged 18 to 45 years.\n(b) Annual family income below Rs. 2,00,000.\n(c) Permanent resident of the State.",
+      "location": "page 2",
+      "source": "s1_circular_en.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": "no page marker for s1_myscheme_listing.txt"
+  },
+  {
+    "scheme_ref": "S1",
+    "field": "documents_required",
+    "value": [
+      "Aadhaar card",
+      "income certificate",
+      "bank passbook copy"
+    ],
+    "evidence": {
+      "text": "Aadhaar card, income certificate,\nbank passbook copy.",
+      "location": "page 2",
+      "source": "s1_circular_en.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": "no page marker for s1_myscheme_listing.txt"
+  },
+  {
+    "scheme_ref": "S1",
+    "field": "how_to_apply",
+    "value": "Applications are to be submitted online through the district industries office portal.",
+    "evidence": {
+      "text": "Applications are to be submitted online through\nthe district industries office portal.",
+      "location": "page 2",
+      "source": "s1_circular_en.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S1",
+    "field": "deadline",
+    "value": [
+      "31 March 2027",
+      "31 December 2026"
+    ],
+    "evidence": [
+      {
+        "text": "31 March 2027",
+        "location": "page 2",
+        "source": "s1_circular_en.txt",
+        "captured_on": "2026-10-30"
+      },
+      {
+        "text": "Last date: 31 December 2026",
+        "location": "page None",
+        "source": "s1_myscheme_listing.txt",
+        "captured_on": "2026-10-30"
+      }
+    ],
+    "confidence": "low",
+    "status": "conflict",
+    "note": "no page marker for s1_myscheme_listing.txt; sources disagree, a person must decide"
+  },
+  {
+    "scheme_ref": "S1",
+    "field": "official_link",
+    "value": null,
+    "evidence": null,
+    "confidence": null,
+    "status": "not found",
+    "note": "not stated in any source document"
+  },
+  {
+    "scheme_ref": "S2",
+    "field": "scheme_name",
+    "value": "किसान सहायता योजना",
+    "evidence": {
+      "text": "किसान सहायता योजना का शुभारंभ",
+      "location": "page 1",
+      "source": "s2_circular_hi.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S2",
+    "field": "department",
+    "value": "कृषि विभाग",
+    "evidence": {
+      "text": "कृषि विभाग",
+      "location": "page 1",
+      "source": "s2_circular_hi.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S2",
+    "field": "benefit_type",
+    "value": "cash grant",
+    "evidence": {
+      "text": "प्रति वर्ष रु. 6,000 की सहायता",
+      "location": "page 1",
+      "source": "s2_circular_hi.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S2",
+    "field": "benefit_amount",
+    "value": "6000",
+    "evidence": {
+      "text": "रु. 6,000",
+      "location": "page 1",
+      "source": "s2_circular_hi.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S2",
+    "field": "benefit_frequency",
+    "value": "2 installments per year",
+    "evidence": {
+      "text": "दो किस्तों में दी जाएगी (प्रत्येक किस्त रु. 3,000)",
+      "location": "page 1",
+      "source": "s2_circular_hi.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S2",
+    "field": "eligibility",
+    "value": [
+      "small and marginal farmers with up to 2 hectares of land",
+      "applicant must be a resident of the state"
+    ],
+    "evidence": {
+      "text": "(क) छोटे एवं सीमांत किसान, जिनके पास 2 हेक्टेयर तक भूमि हो।\n(ख) आवेदक राज्य का निवासी हो।",
+      "location": "page 1",
+      "source": "s2_circular_hi.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S2",
+    "field": "documents_required",
+    "value": [
+      "Aadhaar card",
+      "land record (khusra)",
+      "bank passbook"
+    ],
+    "evidence": {
+      "text": "आवश्यक दस्तावेज: आधार कार्ड, भूमि रिकॉर्ड (खसरा), बैंक पासबुक।",
+      "location": "page 2",
+      "source": "s2_circular_hi.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S2",
+    "field": "how_to_apply",
+    "value": "Apply at the village panchayat office or Common Service Center (CSC)",
+    "evidence": {
+      "text": "आवेदन कैसे करें: ग्राम पंचायत कार्यालय या कॉमन सर्विस सेंटर (CSC) में।",
+      "location": "page 2",
+      "source": "s2_circular_hi.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S2",
+    "field": "deadline",
+    "value": "15 January 2027",
+    "evidence": {
+      "text": "अंतिम तिथि: 15 जनवरी 2027।",
+      "location": "page 2",
+      "source": "s2_circular_hi.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S2",
+    "field": "official_link",
+    "value": null,
+    "evidence": null,
+    "confidence": null,
+    "status": "not found",
+    "note": "not stated in any source document"
+  },
+  {
+    "scheme_ref": "S3",
+    "field": "scheme_name",
+    "value": "Sahay Scho1arship for Girl Students",
+    "evidence": {
+      "text": "Sahay Scho1arship for Girl Students",
+      "location": "page 1",
+      "source": "s3_scanned_ocr.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S3",
+    "field": "department",
+    "value": "Dept. of Schoo1 Education",
+    "evidence": {
+      "text": "Dept. of Schoo1 Education",
+      "location": "page 1",
+      "source": "s3_scanned_ocr.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S3",
+    "field": "benefit_type",
+    "value": "scholarship",
+    "evidence": {
+      "text": "Bene fit: Rs. 1,O00 per month for 10 months",
+      "location": "page 1",
+      "source": "s3_scanned_ocr.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S3",
+    "field": "benefit_amount",
+    "value": "Rs. 1,000 per month for 10 months",
+    "evidence": {
+      "text": "Bene fit: Rs. 1,O00 per month for 10 months",
+      "location": "page 1",
+      "source": "s3_scanned_ocr.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S3",
+    "field": "benefit_frequency",
+    "value": "monthly for 10 months",
+    "evidence": {
+      "text": "Bene fit: Rs. 1,O00 per month for 10 months",
+      "location": "page 1",
+      "source": "s3_scanned_ocr.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S3",
+    "field": "eligibility",
+    "value": [
+      "Girl students of Class 9 to 12",
+      "Family income below Rs. 1,50,000 per year"
+    ],
+    "evidence": {
+      "text": "E1igibility: Girl students of Class 9 to 12.\nFami1y income be1ow Rs. 1,50,000 per year.",
+      "location": "page 1",
+      "source": "s3_scanned_ocr.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S3",
+    "field": "documents_required",
+    "value": [
+      "school certificate",
+      "bank account details",
+      "income certificate"
+    ],
+    "evidence": {
+      "text": "Documents: schoo1 certificate, bank account\ndetai1s, income certificate.",
+      "location": "page 1",
+      "source": "s3_scanned_ocr.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S3",
+    "field": "how_to_apply",
+    "value": "Apply through the Principal of the school",
+    "evidence": {
+      "text": "App1y through the Principa1 of the schoo1.",
+      "location": "page 1",
+      "source": "s3_scanned_ocr.txt",
+      "captured_on": "2026-10-30"
+    },
+    "confidence": "high",
+    "status": "found",
+    "note": null
+  },
+  {
+    "scheme_ref": "S3",
+    "field": "deadline",
+    "value": null,
+    "evidence": null,
+    "confidence": null,
+    "status": "not found",
+    "note": "not stated in any source document"
+  },
+  {
+    "scheme_ref": "S3",
+    "field": "official_link",
+    "value": null,
+    "evidence": null,
+    "confidence": null,
+    "status": "not found",
+    "note": "not stated in any source document"
+  }
+]
