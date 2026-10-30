@@ -31,7 +31,8 @@ Rules:
 6. If the text has OCR errors (for example Scho1arship or 1,O00), write the CLEAN corrected text in "value" (Scholarship, 1,000), but keep the original noisy text in "evidence".
 7. "benefit_type" is a short label for the kind of benefit (for example scholarship, one-time cash grant, subsidy). It is not a sentence and not an amount.
 8. "benefit_frequency" must include details such as the number of installments, if the document says so.
-9. Return only a JSON object with the field names as keys.
+9. Write "value" in the same language as the document. Do not translate. If the document is in Hindi, the value must be in Hindi.
+10. Return only a JSON object with the field names as keys.
 
 DOCUMENT:
 {document}
