@@ -11,8 +11,7 @@ Every value comes with the exact text it was taken from, the page, the source fi
 Everything the AI produces is only a draft. A person has to check it before it is used.
 
 ## How to run
--> 0. Install the library: `pip install -r requirements.txt`
-1. Install the library: `pip install groq`
+1. Install the library: `pip install -r requirements.txt`
 2. Set your Groq key in PowerShell (do not write it inside any file):
    `$env:GROQ_API_KEY="your_key_here"`
 3. Run these from the main folder, in this order:
